@@ -51,9 +51,9 @@
 - 노트가 안정되면 `mastered`로 바꿉니다.
 - 더 이상 적극적으로 보지 않으면 `archived`로 둡니다.
 
-## add-language-note 스킬 사용법
+## capture 스킬 사용법
 
-학습 내용을 직접 파일에 적지 않고 Codex에게 말하면, `add-language-note` 스킬이 이 Vault의 적절한 위치에 노트를 만듭니다.
+학습 내용을 직접 파일에 적지 않고 Codex에게 말하면, `capture` 스킬이 이 Vault의 적절한 위치에 노트를 만듭니다.
 
 요청 예시:
 

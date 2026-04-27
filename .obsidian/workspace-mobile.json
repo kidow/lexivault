@@ -11,10 +11,14 @@
             "id": "53f67a4c776cf35e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "05_Dashboard/Study Dashboard.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "새 탭"
+              "title": "Study Dashboard"
             }
           }
         ]
@@ -108,6 +112,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "05_Dashboard/Study Dashboard.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -162,5 +167,8 @@
     }
   },
   "active": "53f67a4c776cf35e",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Obsidian Anki Guide.md",
+    "01_Languages/Spanish/Expressions/_index.md"
+  ]
 }

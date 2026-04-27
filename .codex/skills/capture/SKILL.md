@@ -1,9 +1,9 @@
 ---
-name: add-language-note
+name: capture
 description: Captures foreign-language learning material into the Lexivault Obsidian vault with the correct folder, YAML fields, note structure, and Anki readiness. Use when the user asks to add, record, save, organize, or turn learned language content into Obsidian notes for English, Japanese, Chinese, Spanish, Portuguese, Russian, French, German, Arabic, or Italian.
 ---
 
-# Add Language Note
+# Capture
 
 ## Target
 
@@ -36,4 +36,3 @@ Ask one concise question before writing if:
 ## Reference
 
 Read [REFERENCE.md](REFERENCE.md) when creating or updating notes. It contains folder mappings, YAML fields, body templates, Anki policy, and file naming rules.
-

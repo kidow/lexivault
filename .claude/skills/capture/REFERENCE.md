@@ -1,4 +1,4 @@
-# Add Language Note Reference
+# Capture Reference
 
 ## Classification
 
@@ -111,4 +111,3 @@ Add concise card candidates:
 Use readable filenames. Prefer the target-language item for vocabulary and expressions. Use concise English or Korean titles for grammar concepts when the original script would be awkward.
 
 Avoid overwriting. If a matching note exists, update it instead of creating a duplicate.
-
