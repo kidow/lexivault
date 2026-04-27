@@ -3,7 +3,9 @@
     "host": "http://localhost",
     "port": 8765
   },
-  "folders": [],
+  "folders": [
+    ""
+  ],
   "ignoreFolderNotes": true,
   "manageFilenames": {
     "autoRenameDebounceIntervalMs": 300,

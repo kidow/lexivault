@@ -164,13 +164,23 @@
               "icon": "lucide-list",
               "title": "Obsidian Anki Guide 의 개요"
             }
+          },
+          {
+            "id": "b4c04fd89c8a7a87",
+            "type": "leaf",
+            "state": {
+              "type": "claudian-view",
+              "state": {},
+              "icon": "bot",
+              "title": "Claudian"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 428.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,10 +190,13 @@
       "daily-notes:오늘의 일일 노트 열기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
-      "bases:새 베이스 생성하기": false
+      "bases:새 베이스 생성하기": false,
+      "claudian:Open Claudian": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-tts:Text to Speech": false
     }
   },
-  "active": "7f4fe8b545574262",
+  "active": "624ea08eb2e25eea",
   "lastOpenFiles": [
     "02_Review/Review_Logs/_index.md",
     "02_Review/Active_Recall/_index.md",
