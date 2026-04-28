@@ -174,6 +174,16 @@
               "icon": "bot",
               "title": "Claudian"
             }
+          },
+          {
+            "id": "9271907c5c8e8920",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
         "currentTab": 5
@@ -198,6 +208,10 @@
   },
   "active": "624ea08eb2e25eea",
   "lastOpenFiles": [
+    "무제.base",
+    "무제.canvas",
+    "2026-04-28.md",
+    "Obsidian Anki Guide.md",
     "02_Review/Review_Logs/_index.md",
     "02_Review/Active_Recall/_index.md",
     "02_Review/Anki_Candidates/_index.md",
@@ -221,9 +235,6 @@
     "01_Languages/Chinese/Mandarin/Simplified/Sentences/_index.md",
     "01_Languages/Chinese/Mandarin/Simplified/Vocabulary/_index.md",
     "01_Languages/Chinese/Mandarin/Simplified/_index.md",
-    "01_Languages/Chinese/Mandarin/Common/Resources/_index.md",
-    "01_Languages/Chinese/Mandarin/Common/Pronunciation/_index.md",
-    "01_Languages/Chinese/Mandarin/Common/Grammar/_index.md",
     "05_Dashboard",
     "04_Resources",
     "03_Templates",
@@ -232,7 +243,6 @@
     "02_Review/Active_Recall",
     "02_Review",
     "01_Languages/Chinese/Mandarin/Traditional/Vocabulary",
-    "01_Languages/Chinese/Mandarin/Traditional/Sources",
-    "01_Languages/Chinese/Mandarin/Traditional/Sentences"
+    "01_Languages/Chinese/Mandarin/Traditional/Sources"
   ]
 }
