@@ -21,7 +21,8 @@ Use this skill when the user gives language-learning material and expects Codex 
 4. Create or update the note with YAML frontmatter and a matching body structure.
 5. Mark `anki: true` only for material worth active recall.
 6. Verify the created or updated file exists.
-7. Reply in Korean with paths, non-obvious classification decisions, blanks left for the user, and a suggested commit message.
+7. If the task added new knowledge to the vault, create a git commit automatically after verification.
+8. Reply in Korean with paths, non-obvious classification decisions, blanks left for the user, and a suggested commit message.
 
 ## Stop And Ask
 
