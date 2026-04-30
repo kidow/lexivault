@@ -32,6 +32,7 @@ Ask one concise question before writing if:
 - Chinese variety or script is unclear.
 - The target note may duplicate an existing note and merging would be risky.
 - Required content is too vague to make a useful note.
+- The presented sentence appears to be incorrect knowledge; ask for one more confirmation before proceeding. If the user still wants to proceed, continue with the task.
 
 ## Reference
 
