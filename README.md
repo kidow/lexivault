@@ -72,6 +72,51 @@ Examples:
 /drill things learned within the last week
 ```
 
+### 4. Spark
+
+The `spark` skill picks a random language topic and teaches it in an engaging, story-first way — not a textbook drill.
+
+- Opens with a "Did you know?" style hook tied to a real-life situation.
+- Presents the core expression with cultural background, etymology, or a mnemonic to make it memorable.
+- Follows up with 1–2 situational practice questions (not fill-in-the-blank).
+- One topic per session. Call `/spark` again for the next one.
+
+Examples:
+
+```text
+/spark
+/spark Japanese
+/spark French
+```
+
+### 5. Dissect
+
+The `dissect` skill takes a pasted foreign-language text — article, song lyrics, novel excerpt — and systematically takes it apart section by section.
+
+- Auto-detects the text type (lyrics, news, fiction, essay) and adjusts the analysis accordingly.
+- Opens with three interesting angles to explore, letting the user choose the starting point.
+- For each section: explains the role in the whole text, unpacks key expressions with context (not just translation), and covers cultural or historical background.
+- User-driven pace: go deeper or move on at any point.
+
+Example:
+
+```text
+/dissect
+[paste full text]
+```
+
+### 6. Translate
+
+The `translate` skill translates a given phrase into ten languages in parallel.
+
+Languages: English, Japanese, Simplified Chinese, Traditional Chinese, Spanish, French, German, Portuguese, Italian, Arabic.
+
+Example:
+
+```text
+/translate 오늘 날씨가 정말 좋네요
+```
+
 ## Daily Use
 
 1. Capture newly learned material quickly.
@@ -79,9 +124,14 @@ Examples:
 3. Start review from `05_Dashboard/Study Dashboard.md`.
 4. Manage memorization targets as Anki candidates.
 5. Use the `drill` skill when you want a conversational check.
+6. Use `/spark` when you want to discover something new without a set topic.
+7. Use `/dissect` when you have a long text and want to go deep.
 
 ## References
 
 - [Obsidian Anki Guide.md](Obsidian%20Anki%20Guide.md): Operating rules for using Obsidian and Anki together
 - [.codex/skills/capture/SKILL.md](.codex/skills/capture/SKILL.md): Learning-material capture skill
 - [.codex/skills/drill/SKILL.md](.codex/skills/drill/SKILL.md): Conversational quiz skill
+- [.codex/skills/spark/SKILL.md](.codex/skills/spark/SKILL.md): Random topic discovery skill
+- [.codex/skills/dissect/SKILL.md](.codex/skills/dissect/SKILL.md): Long-text deep reading skill
+- [.codex/skills/translate/SKILL.md](.codex/skills/translate/SKILL.md): Multilingual translation skill

@@ -72,6 +72,51 @@ Anki는 Obsidian 노트 전체를 그대로 외우는 도구가 아니라, 반�
 /drill 일주일 이내 배웠던 것들
 ```
 
+### 4. Spark
+
+`spark` 스킬은 랜덤 언어 주제를 하나 골라 교과서식이 아닌 스토리 중심으로 가르칩니다.
+
+- "그거 아시나요?" 방식으로 실생활 상황과 연결된 훅으로 시작합니다.
+- 핵심 표현을 문화적 배경, 어원, 기억 훅과 함께 제시합니다.
+- 1–2개의 상황 제시형 연습 문제로 마무리합니다 (빈칸 채우기 아님).
+- 세션당 주제 하나. 다음 주제는 `/spark` 다시 호출.
+
+예시:
+
+```text
+/spark
+/spark 일본어
+/spark 프랑스어
+```
+
+### 5. Dissect
+
+`dissect` 스킬은 붙여넣은 외국어 장문 텍스트 — 아티클, 노래 가사, 소설 발췌 등 — 를 섹션 단위로 낱낱이 파헤칩니다.
+
+- 텍스트 유형(가사, 뉴스, 소설, 에세이)을 자동 감지해 분석 방식을 조정합니다.
+- 흥미로운 포인트 3가지를 먼저 제시하고 사용자가 시작점을 선택합니다.
+- 각 섹션마다: 글 전체에서의 역할, 핵심 표현 분석(단순 번역 아님), 문화·역사 배경을 함께 다룹니다.
+- 사용자가 페이스 조절: 더 깊게 파거나 다음 섹션으로 넘기거나.
+
+예시:
+
+```text
+/dissect
+[장문 텍스트 붙여넣기]
+```
+
+### 6. Translate
+
+`translate` 스킬은 입력한 문구를 10개 언어로 동시 번역합니다.
+
+번역 언어: 영어, 일본어, 중국어 간체, 중국어 번체, 스페인어, 프랑스어, 독일어, 포르투갈어, 이탈리아어, 아랍어.
+
+예시:
+
+```text
+/translate 오늘 날씨가 정말 좋네요
+```
+
 ## 매일 사용하는 법
 
 1. 새로 배운 내용은 먼저 빠르게 기록합니다.
@@ -79,9 +124,14 @@ Anki는 Obsidian 노트 전체를 그대로 외우는 도구가 아니라, 반�
 3. 복습할 때는 `05_Dashboard/Study Dashboard.md`에서 시작합니다.
 4. 암기해야 할 항목은 Anki 후보로 관리합니다.
 5. 대화형으로 점검하고 싶을 때는 `drill` 스킬을 사용합니다.
+6. 정해진 주제 없이 새로운 걸 발견하고 싶을 때는 `/spark`를 씁니다.
+7. 장문 텍스트를 깊이 파고들고 싶을 때는 `/dissect`를 씁니다.
 
 ## 참고 문서
 
 - [Obsidian Anki Guide.md](Obsidian%20Anki%20Guide.md): Obsidian과 Anki를 함께 쓰는 운영 규칙
 - [.codex/skills/capture/SKILL.md](.codex/skills/capture/SKILL.md): 학습 자료 저장 스킬
 - [.codex/skills/drill/SKILL.md](.codex/skills/drill/SKILL.md): 대화형 퀴즈 스킬
+- [.codex/skills/spark/SKILL.md](.codex/skills/spark/SKILL.md): 랜덤 주제 발견 스킬
+- [.codex/skills/dissect/SKILL.md](.codex/skills/dissect/SKILL.md): 장문 텍스트 심층 분석 스킬
+- [.codex/skills/translate/SKILL.md](.codex/skills/translate/SKILL.md): 다국어 번역 스킬
