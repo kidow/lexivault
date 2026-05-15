@@ -5,6 +5,7 @@ level: beginner
 source: user
 status: draft
 anki: true
+deck: Languages::French
 created: 2026-04-30
 updated: 2026-04-30
 meaning_ko: 프랑스어 남성 단수 정관사
@@ -47,5 +48,9 @@ meaning_ko: 프랑스어 남성 단수 정관사
 
 - Q: 프랑스어 `le`는 무엇에 해당하나요?
   A: 영어의 `the`에 해당하는 남성 단수 정관사이다.
+<!--ID: 1778853967234-->
+
 - Q: `le`는 언제 `l'`로 축약되나요?
   A: 모음이나 묵음 `h` 앞에서 축약된다.
+<!--ID: 1778853967235-->
+

@@ -5,6 +5,7 @@ level: beginner
 source:
 status: draft
 anki: true
+deck: Languages::French
 created: 2026-05-02
 updated: 2026-05-02
 meaning_ko: dans(안에, 경계 공간) vs en(상태·방식)
@@ -74,12 +75,20 @@ en colère       화난 상태로
 
 - Q: "차 안에" — dans la voiture vs en voiture, 차이는?
   A: dans la voiture = 차 내부(공간). en voiture = 차로(교통수단). 둘 다 맞지만 의미 다름.
+<!--ID: 1778853967242-->
+
 
 - Q: 프랑스어로 "프랑스에서" = ?
   A: en France (국가명 + en, 관사 없음)
+<!--ID: 1778853967246-->
+
 
 - Q: dans vs en — 언제 dans, 언제 en?
   A: 물리적 경계 공간 → dans (관사 필요). 상태·방식·국가·교통·계절 → en (관사 없음).
+<!--ID: 1778853967247-->
+
 
 - Q: 봄에는 en printemps? au printemps?
   A: au printemps (예외. 다른 계절은 en).
+<!--ID: 1778853967248-->
+

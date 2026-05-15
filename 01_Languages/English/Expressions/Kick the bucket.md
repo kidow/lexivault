@@ -5,6 +5,7 @@ level: intermediate
 source: Manus Spark
 status: draft
 anki: true
+deck: Languages::English
 created: 2026-05-15
 updated: 2026-05-15
 meaning_ko: 죽다, 사망하다
@@ -37,3 +38,5 @@ meaning_ko: 죽다, 사망하다
 
 - Q: Kick the bucket (의미)
   A: 죽다, 사망하다
+<!--ID: 1778853967252-->
+

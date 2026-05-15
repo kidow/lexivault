@@ -5,6 +5,7 @@ level: beginner
 source:
 status: draft
 anki: true
+deck: Languages::French
 created: 2026-05-02
 updated: 2026-05-02
 meaning_ko: 숲
@@ -42,6 +43,10 @@ meaning_ko: 숲
 
 - Q: "숲"을 프랑스어로?
   A: la forêt /fɔ.ʁɛ/
+<!--ID: 1778853967225-->
+
 
 - Q: forêt의 ê(accent circumflex)가 의미하는 것은?
   A: 고대 프랑스어 "forest"에서 's'가 탈락한 흔적. 영어 forest와 같은 어원.
+<!--ID: 1778853967226-->
+

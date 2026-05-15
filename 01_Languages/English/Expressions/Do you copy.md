@@ -1,10 +1,11 @@
-﻿---
+---
 language: English
 type: Expression
 level: intermediate
 source: user
 status: draft
 anki: true
+deck: Languages::English
 created: 2026-05-03
 updated: 2026-05-03
 meaning_ko: 내 말 들리나? / 이해했나? / 잘 접수되었나?
@@ -46,6 +47,10 @@ meaning_ko: 내 말 들리나? / 이해했나? / 잘 접수되었나?
 
 - Q: `Do you copy?`는 무슨 뜻인가?
   A: 무전이나 통신에서 "내 말 들리나?", "이해했나?", "잘 접수되었나?"라는 뜻이다.
+<!--ID: 1778853967253-->
+
 
 - Q: `Do you copy?`에 대한 대표적인 응답은?
   A: `Copy that.` 또는 `Roger.`
+<!--ID: 1778853967254-->
+

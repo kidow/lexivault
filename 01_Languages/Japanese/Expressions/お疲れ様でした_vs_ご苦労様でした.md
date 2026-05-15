@@ -5,6 +5,7 @@ level: intermediate
 source: Manus AI, Manus Spark
 status: draft
 anki: true
+deck: Languages::Japanese
 created: 2026-05-12
 updated: 2026-05-15
 meaning_ko: 수고하셨습니다 (상황에 따른 구분)

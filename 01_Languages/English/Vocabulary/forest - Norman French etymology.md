@@ -5,6 +5,7 @@ level: intermediate
 source:
 status: draft
 anki: true
+deck: Languages::English
 created: 2026-05-02
 updated: 2026-05-02
 meaning_ko: forest (숲) — 노르만 프랑스어 경유 영어 유입 어원
@@ -54,9 +55,15 @@ meaning_ko: forest (숲) — 노르만 프랑스어 경유 영어 유입 어원
 
 - Q: 영어 "forest"의 직접 어원 언어는?
   A: 프랑스어 (forêt). 공통 조상은 라틴어 foresta silva (울타리 밖 숲).
+<!--ID: 1778853967249-->
+
 
 - Q: 1066년 노르만 정복 이후 영어에 유입된 프랑스어 단어 4가지는?
   A: forest, castle, beef, justice
+<!--ID: 1778853967250-->
+
 
 - Q: 영어 beef / pork / veal 이 프랑스어 기원인 이유는?
   A: 노르만 귀족이 프랑스어 사용 → 요리·식탁 어휘가 프랑스어로 정착. 앵글로색슨 농민은 동물(pig, cow)을 키우고, 귀족은 요리된 고기(pork, beef)를 먹었기 때문.
+<!--ID: 1778853967251-->
+

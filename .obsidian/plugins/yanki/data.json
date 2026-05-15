@@ -4,7 +4,7 @@
     "port": 8765
   },
   "folders": [
-    ""
+    "01_Languages"
   ],
   "ignoreFolderNotes": true,
   "manageFilenames": {
@@ -20,7 +20,7 @@
       "auto": 0,
       "duration": 0,
       "errors": 0,
-      "invalid": 0,
+      "invalid": 3,
       "manual": 0,
       "notes": {
         "ankiUnreachable": 0,

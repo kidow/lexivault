@@ -5,6 +5,7 @@ level: A2
 source: spark
 status: draft
 anki: true
+deck: Languages::Spanish
 created: 2026-05-10
 updated: 2026-05-10
 meaning_ko: 새벽 (자정~해뜨기 전, 특히 오전 2~5시)
@@ -43,7 +44,13 @@ meaning_ko: 새벽 (자정~해뜨기 전, 특히 오전 2~5시)
 
 - Q: 스페인어로 "새벽 세 시야" (새벽 2~5시 시간대 단어 사용)
   A: Son las tres de la madrugada.
+<!--ID: 1778853967217-->
+
 - Q: *madrugada* 의 어원 동사와 그 뜻
   A: madrugar — 일찍 일어나다
+<!--ID: 1778853967219-->
+
 - Q: *madrugada* vs *noche* 차이
   A: noche = 밤(저녁~자정), madrugada = 자정 이후 새벽(~일출 전)
+<!--ID: 1778853967220-->
+
