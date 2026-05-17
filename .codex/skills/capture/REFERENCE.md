@@ -46,6 +46,7 @@ anki: false
 created:
 updated:
 meaning_ko:
+transliteration_ko:
 ---
 ```
 
@@ -84,6 +85,8 @@ pattern:
 diacritics:
 rtl: true
 ```
+
+Use `transliteration_ko` for a Korean transliteration of the main surface form when it helps the user read or recall the note.
 
 ## Body Templates
 
