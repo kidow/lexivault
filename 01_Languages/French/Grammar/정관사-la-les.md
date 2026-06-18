@@ -9,6 +9,7 @@ deck: Languages::French
 created: 2026-04-30
 updated: 2026-04-30
 meaning_ko: 프랑스어 여성 단수 및 복수 정관사
+transliteration_ko: 라 / 레
 ---
 
 # 정관사 `la`, `les`
@@ -56,4 +57,3 @@ meaning_ko: 프랑스어 여성 단수 및 복수 정관사
 - Q: 프랑스어 `les`는 무엇에 해당하나요?
   A: 남성/여성 공통 복수 정관사이다.
 <!--ID: 1778853967237-->
-

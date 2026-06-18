@@ -9,6 +9,7 @@ deck: Languages::French
 created: 2026-05-02
 updated: 2026-05-02
 meaning_ko: 숲
+transliteration_ko: 포레
 ---
 
 # forêt
@@ -49,4 +50,3 @@ meaning_ko: 숲
 - Q: forêt의 ê(accent circumflex)가 의미하는 것은?
   A: 고대 프랑스어 "forest"에서 's'가 탈락한 흔적. 영어 forest와 같은 어원.
 <!--ID: 1778853967226-->
-

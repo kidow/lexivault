@@ -9,6 +9,7 @@ deck: Languages::Spanish
 created: 2026-05-10
 updated: 2026-05-10
 meaning_ko: 새벽 (자정~해뜨기 전, 특히 오전 2~5시)
+transliteration_ko: 마드루가다
 ---
 
 # la madrugada
@@ -53,4 +54,3 @@ meaning_ko: 새벽 (자정~해뜨기 전, 특히 오전 2~5시)
 - Q: *madrugada* vs *noche* 차이
   A: noche = 밤(저녁~자정), madrugada = 자정 이후 새벽(~일출 전)
 <!--ID: 1778853967220-->
-

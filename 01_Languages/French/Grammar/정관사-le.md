@@ -9,6 +9,7 @@ deck: Languages::French
 created: 2026-04-30
 updated: 2026-04-30
 meaning_ko: 프랑스어 남성 단수 정관사
+transliteration_ko: 르
 ---
 
 # 정관사 `le`
@@ -53,4 +54,3 @@ meaning_ko: 프랑스어 남성 단수 정관사
 - Q: `le`는 언제 `l'`로 축약되나요?
   A: 모음이나 묵음 `h` 앞에서 축약된다.
 <!--ID: 1778853967235-->
-

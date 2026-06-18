@@ -9,6 +9,7 @@ deck: Languages::English
 created: 2026-05-02
 updated: 2026-05-02
 meaning_ko: forest (숲) — 노르만 프랑스어 경유 영어 유입 어원
+transliteration_ko: 포리스트
 ---
 
 # forest — Norman French Etymology
@@ -66,4 +67,3 @@ meaning_ko: forest (숲) — 노르만 프랑스어 경유 영어 유입 어원
 - Q: 영어 beef / pork / veal 이 프랑스어 기원인 이유는?
   A: 노르만 귀족이 프랑스어 사용 → 요리·식탁 어휘가 프랑스어로 정착. 앵글로색슨 농민은 동물(pig, cow)을 키우고, 귀족은 요리된 고기(pork, beef)를 먹었기 때문.
 <!--ID: 1778853967251-->
-

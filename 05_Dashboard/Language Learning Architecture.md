@@ -90,6 +90,7 @@ jyutping:
 tone:
 measure_word:
 meaning_ko:
+transliteration_ko:
 ```
 
 ### Japanese
@@ -102,6 +103,7 @@ romaji:
 pitch_accent:
 jlpt_level:
 meaning_ko:
+transliteration_ko:
 ```
 
 ### Arabic
@@ -115,6 +117,7 @@ pattern:
 diacritics:
 rtl: true
 meaning_ko:
+transliteration_ko:
 ```
 
 ## Anki Policy

@@ -28,11 +28,12 @@
 
 - 단어, 문법, 표현, 중요한 문장은 보통 노트 하나를 하나의 단위로 둡니다.
 - 연습용 문장은 여러 개를 묶은 모음 노트로 두어도 됩니다.
-- 모든 언어에 공통으로 쓰는 필드는 `language`, `type`, `level`, `source`, `status`, `anki`입니다.
+- 모든 언어에 공통으로 쓰는 필드는 `language`, `type`, `level`, `source`, `status`, `anki`, `meaning_ko`, `transliteration_ko`입니다.
 - 언어별로 필요한 필드는 추가합니다. 예:
   - 중국어: `variety`, `script_variant`, `pinyin`, `tone`
   - 일본어: `kanji`, `kana`, `romaji`, `pitch_accent`
   - 아랍어: `arabic`, `transliteration`, `root`, `rtl`
+- `transliteration_ko`는 카드의 핵심 표기를 한국어로 음차한 값입니다.
 
 ## Anki 규칙
 

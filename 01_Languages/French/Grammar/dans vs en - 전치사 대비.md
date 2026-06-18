@@ -9,6 +9,7 @@ deck: Languages::French
 created: 2026-05-02
 updated: 2026-05-02
 meaning_ko: dans(안에, 경계 공간) vs en(상태·방식)
+transliteration_ko: 당스 vs 앙
 ---
 
 # dans vs en — 전치사 대비
@@ -91,4 +92,3 @@ en colère       화난 상태로
 - Q: 봄에는 en printemps? au printemps?
   A: au printemps (예외. 다른 계절은 en).
 <!--ID: 1778853967248-->
-

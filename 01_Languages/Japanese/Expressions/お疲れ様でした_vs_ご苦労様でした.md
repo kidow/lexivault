@@ -9,6 +9,7 @@ deck: Languages::Japanese
 created: 2026-05-12
 updated: 2026-05-15
 meaning_ko: 수고하셨습니다 (상황에 따른 구분)
+transliteration_ko: 오츠카레사마데시타 / 고쿠로우사마데시타
 kana: おつかれさまでした, ごくろうさまでした
 romaji: otsukaresamadeshita, gokurousamadeshita
 pitch_accent:

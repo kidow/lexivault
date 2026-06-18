@@ -6,6 +6,7 @@ status: draft
 anki: false
 created:
 updated:
+transliteration_ko:
 ---
 
 # {{title}}

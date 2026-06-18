@@ -9,6 +9,7 @@ deck: Languages::French
 created: 2026-05-15
 updated: 2026-05-15
 meaning_ko: 그게 인생이지!, 어쩔 수 없지 뭐!, 다 그런 거지 뭐!
+transliteration_ko: 쎄 라 비!
 ---
 
 # C'est la vie!
@@ -39,4 +40,3 @@ meaning_ko: 그게 인생이지!, 어쩔 수 없지 뭐!, 다 그런 거지 뭐!
 - Q: C'est la vie! (의미)
   A: 그게 인생이지!, 어쩔 수 없지 뭐!, 다 그런 거지 뭐!
 <!--ID: 1778853967229-->
-

@@ -8,6 +8,7 @@ anki: false
 created:
 updated:
 meaning_ko:
+transliteration_ko:
 ---
 
 # {{title}}

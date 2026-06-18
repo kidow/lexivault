@@ -9,6 +9,7 @@ deck: Languages::English
 created: 2026-05-03
 updated: 2026-05-03
 meaning_ko: 내 말 들리나? / 이해했나? / 잘 접수되었나?
+transliteration_ko: 두 유 카피?
 ---
 
 # Do you copy?
@@ -53,4 +54,3 @@ meaning_ko: 내 말 들리나? / 이해했나? / 잘 접수되었나?
 - Q: `Do you copy?`에 대한 대표적인 응답은?
   A: `Copy that.` 또는 `Roger.`
 <!--ID: 1778853967254-->
-
